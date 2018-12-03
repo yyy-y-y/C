@@ -1,4 +1,5 @@
 #include <stdio.h>
+/*comment*/
 void nextday(int *a,int *b,int *c){
     switch(*b){
         case 1:{  if(*c>=31) {++*b; *c=1;} else {++*c;}  } break;
