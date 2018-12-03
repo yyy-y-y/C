@@ -1,5 +1,3 @@
-<<<<<<< HEAD
-/*指定した日の次の日を表示する*/
 #include <stdio.h>
 void nextday(int *a,int *b,int *c){
     switch(*b){
