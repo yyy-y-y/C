@@ -5,7 +5,7 @@ github>gittestに保存したいファイルを移動
 コマンドプロンプトを起動しgittestまでcdで移動
 
 3.
-git add・・・　でgit追加
+git add・・・　でgit追加(git add ,でもよい)
 git commit -m "コメント"　でコミットとコメント追加
 git push origin master　でpush
 
