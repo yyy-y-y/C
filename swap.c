@@ -1,5 +1,5 @@
 #include <stdio.h>
-
+/*‚±‚ñ‚É‚Â‚*/
 #define sw(x,y) (x+=x,y=x-y,x-=y)
 
 int main(void){  
